@@ -3,7 +3,7 @@
 Interactive Formula 1 analytics project built using Tableau Public.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/nishtha.koli/viz/F1RACINGSEASONS1/KPI-Summary)**
+👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/nishtha.koli/viz/F1RACINGSEASONS3/Dashboard1)**
 
 ---
 
